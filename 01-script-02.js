@@ -1,0 +1,1 @@
+alert("Embedded JavaScript-02 in external script.");
