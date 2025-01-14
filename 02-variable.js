@@ -9,7 +9,7 @@ alert(firstName);
 let lastName = 'Stark';
 alert(lastName);
 
-// lastName = 'Snow';
+lastName = 'Snow';
 alert(lastName);
 
 // using const keyword
